@@ -1,0 +1,26 @@
+- Database Structure
+admin + mount
+chief1 + IP + port, chief2 + IP + port, chief3 + IP + port, member1 + IP + port, member2 + IP + port, member3 + IP + port
+project1 + member1 + member2 + member3, project2 + member1 + member2 + member3, project3 + member1 + member2 + member3
+task1, task2, task3
+debug1, debug2, debug3
+file1, file2, file3
+
+- Database Format
+Folders and Files trees
+Files with string to split with comma or line break
+
+- Database example
+First root : File admin with admin name and mount folder with credentials, Folder chiefs
+Second root : File chiefs with chiefs + IPs + ports, Folders named with name of each chief
+Third root : File projects with projects + members + IPs + ports, Folders with name of each project (number)
+Fourth root : File tasks with tasks, Folders with name of each task (number)
+Fifth root : File debugs with debugs, Folders with name of each debug (number)
+Sixth root : File files with name and information of files, Folders with name of each file (number)
+Seventh root : File versions with versions, Folder with name of each version (number)
+last root : File
+
+- Update for each user :
+Websocket sending name of function with arguments (server)
+Websockets receiving name of function with arguments to execute (clients)
+
