@@ -266,7 +266,6 @@ C:\Users\mic\Documents\Perso\TT\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTroo
 C:\Users\mic\Documents\Perso\TT\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.exe
 C:\Users\mic\Documents\Perso\TT\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.pdb
 C:\Users\micha\Documents\GitHub\TeamTrooper\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.csproj.AssemblyReference.cache
-C:\Users\micha\Documents\GitHub\TeamTrooper\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.csproj.SuggestedBindingRedirects.cache
 C:\Users\micha\Documents\GitHub\TeamTrooper\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.Form1.resources
 C:\Users\micha\Documents\GitHub\TeamTrooper\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.Properties.Resources.resources
 C:\Users\micha\Documents\GitHub\TeamTrooper\Src\TeamTrooper\TeamTrooper\obj\Release\TeamTrooper.csproj.GenerateResource.cache
