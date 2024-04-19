@@ -1,0 +1,11 @@
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\bin\Release\NetworkFileShare.exe.config
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\bin\Release\NetworkFileShare.exe
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\bin\Release\NetworkFileShare.pdb
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.Form1.resources
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.exe
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShare\NetworkFileShare\obj\Release\NetworkFileShare.pdb

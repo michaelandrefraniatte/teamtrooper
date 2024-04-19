@@ -1,0 +1,8 @@
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\bin\Release\NetworkLanComputers.exe.config
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\bin\Release\NetworkLanComputers.exe
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\bin\Release\NetworkLanComputers.pdb
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\obj\Release\NetworkLanComputers.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\obj\Release\NetworkLanComputers.csproj.SuggestedBindingRedirects.cache
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\obj\Release\NetworkLanComputers.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\obj\Release\NetworkLanComputers.exe
+C:\Users\mic\Documents\GitHub\NetworkLanComputers\Src\NetworkLanComputers\NetworkLanComputers\obj\Release\NetworkLanComputers.pdb

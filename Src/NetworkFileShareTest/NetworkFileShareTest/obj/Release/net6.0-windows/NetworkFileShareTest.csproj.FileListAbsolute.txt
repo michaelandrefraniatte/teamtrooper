@@ -1,0 +1,17 @@
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\bin\Release\net6.0-windows\NetworkFileShareTest.exe
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\bin\Release\net6.0-windows\NetworkFileShareTest.deps.json
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\bin\Release\net6.0-windows\NetworkFileShareTest.runtimeconfig.json
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\bin\Release\net6.0-windows\NetworkFileShareTest.dll
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\bin\Release\net6.0-windows\NetworkFileShareTest.pdb
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.csproj.AssemblyReference.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.Form1.resources
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.AssemblyInfoInputs.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.AssemblyInfo.cs
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.dll
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\refint\NetworkFileShareTest.dll
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.pdb
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\NetworkFileShareTest.genruntimeconfig.cache
+C:\Users\mic\Documents\GitHub\NetworkFileShare\Src\NetworkFileShareTest\NetworkFileShareTest\obj\Release\net6.0-windows\ref\NetworkFileShareTest.dll
